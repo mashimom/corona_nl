@@ -1,10 +1,10 @@
-package com.github.mashimom.mashimomtemplate;
+package com.github.mashimom.corona;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MashimomTemplateApplicationTests {
+class CoronaNLDataApplicationTests {
 
 	@Test
 	void contextLoads() {
