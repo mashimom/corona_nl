@@ -1,13 +1,13 @@
-package com.github.mashimom.mashimomtemplate;
+package com.github.mashimom.corona;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MashimomTemplateApplication {
+public class CoronaNLDataApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MashimomTemplateApplication.class, args);
+		SpringApplication.run(CoronaNLDataApplication.class, args);
 	}
 
 }
