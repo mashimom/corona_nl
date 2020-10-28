@@ -70,6 +70,7 @@ dependencies {
 	implementation 'commons-codec:commons-codec:1.15'
 	implementation 'org.springdoc:springdoc-openapi-ui:1.4.3'
 	implementation 'com.codepoetics:protonpack:1.16'
+	implementation 'uk.elementarysoftware:quick-csv-streamer:0.2.4'
 
 	runtimeOnly 'com.h2database:h2'
 	
